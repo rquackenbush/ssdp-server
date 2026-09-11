@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+ST: roku:ecp
+USN: uuid:roku:ecp:X02500DHFFFF
+LOCATION: http://10.0.0.39:8060/

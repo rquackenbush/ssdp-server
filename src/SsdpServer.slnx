@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SsdpServer.Core/SsdpServer.Core.csproj" />
+  <Project Path="SsdpServer/SsdpServer.csproj" />
+</Solution>

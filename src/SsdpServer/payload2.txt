@@ -1,0 +1,10 @@
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Cache-Control: max-age=3600
+NT: roku:ecp
+NTS: ssdp:alive
+Location: http://10.0.0.39:8060/
+USN: uuid:roku:ecp:X02500DHFFFF
+BOOTID.UPNP.ORG: 35
+device-group.roku.com: 860C2344DA2ECE6CB312
+

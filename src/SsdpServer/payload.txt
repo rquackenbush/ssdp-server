@@ -1,0 +1,8 @@
+NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Cache-Control: max-age=3600
+NT: upnp:rootdevice
+NTS: ssdp:alive
+Location: http://10.0.0.39:8060/
+USN: uuid:fffed2f6-4006-441c-ab97-2f448c66bab1::upnp:rootdevice
+BOOTID.UPNP.ORG: 35
